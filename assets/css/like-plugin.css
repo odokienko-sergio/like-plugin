@@ -1,0 +1,9 @@
+.like-section {
+    background: lemonchiffon;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+}
+.my-like-button {
+    margin: 0 0 0 5px;
+}
